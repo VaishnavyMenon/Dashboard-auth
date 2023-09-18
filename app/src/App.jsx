@@ -2,8 +2,8 @@ import Dashboard from "./pages/dashboard/Dashboard";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Transaction from "./pages/transaction/Transaction";
 import Support from "./pages/support/Support";
-import SignUp from "./pages/auth/SignUp/signup";
-import SignIn from "./pages/auth/SignIn/signin";
+import SignUp from "./pages/auth/SignUp/SignUp"
+import SignIn from "./pages/auth/SignIn/SignIn";
 import RegisterEmailVerification from "./pages/auth/RegisterEmailVerification/RegisterEmailVerification";
 import RegistrationSuccess from "./pages/auth/RegistrationSuccess/RegistrationSuccess";
 import ResetEmailSuccess from "./pages/auth/ResetEmailSendSuccess/ResetEmailSuccess";
