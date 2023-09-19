@@ -51,6 +51,7 @@ The frontend of this application is hosted on Firebase, providing a seamless and
 To explore the application, please use the following login credentials:
 
 Email: test_dashboard_auth@gmail.com
+
 Password: 123456
 
 Feel free to navigate through the various features and functionalities.
