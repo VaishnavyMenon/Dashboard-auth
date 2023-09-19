@@ -12,7 +12,7 @@ All frontend files are contained within the 'app' folder, providing a structured
 - Token-based Authentication: User authentication is managed through tokens, stored securely using React-Cookies. This enables seamless user sessions with enhanced security.
 - User Authentication Features:
     - Signup Page: Users can create a new account, by providing the necessary details. Email verification is implemented to ensure account authenticity.
-    - Sign In: Registered users can securely log in with their credentials.
+    - Sign In: Registered users can securely login with their credentials.
     - Forgot Password: Users can request a password reset link if they forget their password.
     -  Reset Password: Upon receiving the reset link via email, users can securely set a new password.
 - User Dashboard:
@@ -42,7 +42,32 @@ All frontend files are contained within the 'app' folder, providing a structured
     7.  npm install -Install dependencies
     8. npm run dev - Start the backend application.
 
-Explore the various authentication features provided in the application.
-
 ## Contributing:
 Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+## Hosting Information
+The frontend of this application is hosted on Firebase, providing a seamless and reliable user experience. You can access the live version by following this link: https://dashboard-13320.web.app/signin
+
+To explore the application, please use the following login credentials:
+
+** Email: test_dashboard_auth@gmail.com
+ ** Password: 123456
+Feel free to navigate through the various features and functionalities.
+
+
+![image](https://github.com/VaishnavyMenon/Dashboard-auth/assets/74608354/36780088-8987-41b0-9dc0-d8e1c3759bb8)
+![image](https://github.com/VaishnavyMenon/Dashboard-auth/assets/74608354/8856ad4e-9f34-4dc3-b260-f894deba9cbf)
+![image](https://github.com/VaishnavyMenon/Dashboard-auth/assets/74608354/2c4a4410-2a6a-496c-a123-dc5c7f3fba6d)
+![image](https://github.com/VaishnavyMenon/Dashboard-auth/assets/74608354/4b15f435-41fd-4261-9bb4-3695c018813a)
+![image](https://github.com/VaishnavyMenon/Dashboard-auth/assets/74608354/304b0146-ac4b-4181-b09c-12a28089547f)
+![image](https://github.com/VaishnavyMenon/Dashboard-auth/assets/74608354/ea02be2c-4abc-4ef8-815e-dfa571288fe9)
+![image](https://github.com/VaishnavyMenon/Dashboard-auth/assets/74608354/4abe33a5-0ada-417a-865c-536defd05d80)
+![image](https://github.com/VaishnavyMenon/Dashboard-auth/assets/74608354/571dbc1c-8f16-4358-b594-f2bbb1fa7ea4)
+![image](https://github.com/VaishnavyMenon/Dashboard-auth/assets/74608354/2b18d598-3c55-4013-920c-f889260e6a0c)
+![image](https://github.com/VaishnavyMenon/Dashboard-auth/assets/74608354/fc7ea84b-bb66-43a9-979b-9abcbd6520e0)
+![image](https://github.com/VaishnavyMenon/Dashboard-auth/assets/74608354/8b5bff9a-668b-4453-a5d4-5f17a3d0cc8f)
+![image](https://github.com/VaishnavyMenon/Dashboard-auth/assets/74608354/adddfb47-615e-4259-b562-e5c01259efc7)
+
+
+
+
