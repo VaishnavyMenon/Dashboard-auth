@@ -43,3 +43,6 @@ All frontend files are contained within the 'app' folder, providing a structured
     8. npm run dev - Start the backend application.
 
 Explore the various authentication features provided in the application.
+
+## Contributing:
+Contributions are welcome! Feel free to open an issue or submit a pull request.
