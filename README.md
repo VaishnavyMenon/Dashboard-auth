@@ -22,7 +22,7 @@ All frontend files are contained within the 'app' folder, providing a structured
 - Support Page:
     Users can access a support page for assistance with any issues or inquiries they may have.
 
-##Technologies Used:
+## Technologies Used:
     React.js
     Chakra UI
     Axios
@@ -32,7 +32,7 @@ All frontend files are contained within the 'app' folder, providing a structured
     React Router
     Node.js (Backend)
 
-##How to Use:
+## How to Use:
     1. Clone the repository.
     2. cd app - get into the frontend folder
     3. npm install -Install dependencies
