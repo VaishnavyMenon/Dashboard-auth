@@ -1,4 +1,5 @@
 # Dashboard with login authorization using React JS
+Dashboard authentication system built with React JS.
 
 ## Overview:
 This project showcases a robust authentication system built with React.js, leveraging various powerful libraries and tools to provide a seamless user experience. The front end is designed using Chakra UI, a flexible and accessible component library. Axios and React-Query are employed for efficient API calls, ensuring smooth communication with the server. User authentication is facilitated through token management using React-Cookies, allowing for secure and persistent sessions. The backend of this project is developed using Node.js, providing a solid foundation for handling server-side logic and database operations. 
